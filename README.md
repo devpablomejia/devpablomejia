@@ -13,8 +13,8 @@
 class Player = {
     name = "Pablo Mejía",
     rol = "Systems Engineering - Student",
-    level = "2nd Semester",
-    skills[] =  ["Python", "Java", "OOP"],
+    level = "3nd Semester",
+    skills[] =  ["Python", "Java", "OOP", "git"],
     currentQuest = "Mastering Programming Arts",
     powerLevel =  "Growing Stronger Every Day"
 }
@@ -42,7 +42,7 @@ Loading next level...
 
 ## ★ Contact with me
 <p align="center">
-  <a href="pablomiguel1108@outlook.com">
+  <a href="">
     <img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>

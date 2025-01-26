@@ -1,57 +1,76 @@
-<div align="center">
-    <img src="https://i.pinimg.com/564x/95/eb/36/95eb36ef282d368dfa2fadee9f33265b.jpg" alt="Banner">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Zen+Dots&display=swap');
+  body{
+    background-color:   #0F1020 ;
+  }
+  .title{
+    margin-top:10%;
+    font-size: 40px;
+    color:   #E6E6FA;
+    text-align: center; 
+    font-family: "Montserrat", serif;
+  }
+  .name{
+    color:  #7B68EE; 
+    font-family: "Zen Dots", serif;
+  }
+  .aboutme{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .hellogip{
+    width: 400px
+  }
+  .info{
+    display: flex;
+    background-color: #7B68EE;
+    padding: 5%;
+    justify-content: space-between;
+    border-radius: 16px;
+    box-shadow: 6px 4px 0px #E6E6FA;; 
+    font-family: "Montserrat", serif;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .subtitle{
+    font-size: 40px;
+    color:   #E6E6FA;
+    font-family: "Montserrat", serif;
+    text-shadow: 2px 2px 0px  #7B68EE;;
+  }
+</style>  
+
+<h1 class="title"> 
+HI, I'M <strong class="name">@devpablomejia</strong>
+</h1>
+
+<div class="aboutme">
+<img class="hellogip"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDduaml2ZDZoODZ5ZTQzMnF5dDduaTlha3N2ZXkweDMya3ZpazlkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8cU2SILzpdb7fHGn1O/giphy.gif" 
+alt="hellogip">
+<p class="info">
+I am Pablo Mejía, a Systems Engineering student, passionate about artificial intelligence and the development of technological solutions. I am exploring Python, Java and programming techniques with the goal of creating innovations that solve complex problems and transform industries.
+</p>
 </div>
+
+<h2 class="subtitle">
+Technologies & Skills
+</h2>
+<div>
+
+![Python](https://img.shields.io/badge/Python-7B68EE?style=for-the-badge&logo=python&logoColor=E6E6FA)
+![Java](https://img.shields.io/badge/Java-E6E6FA?style=for-the-badge&logo=openjdk&logoColor=7B68EE)
+![CSS3](https://img.shields.io/badge/CSS3-7B68EE?style=for-the-badge&logo=css3&logoColor=E6E6FA)
+![HTML5](https://img.shields.io/badge/HTML5-E6E6FA?style=for-the-badge&logo=html5&logoColor=7B68EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-7B68EE?style=for-the-badge&logo=javascript&logoColor=E6E6FA)
+</div>
+
+<!---
 <div align = "center">
 <img src="https://i.giphy.com/cCOVfFwDI3awdse5A3.webp" width="100">
 </div>
-
-<h1 align = "center">hi, i'm @devpablomejia</h1>
-
-<h2> ★ about me</h2>
-
-```java
-class Player = {
-    name = "Pablo Mejía",
-    rol = "Systems Engineering - Student",
-    level = "3nd Semester",
-    skills[] =  ["Python", "Java", "OOP", "git"],
-    currentQuest = "Mastering Programming Arts",
-    powerLevel =  "Growing Stronger Every Day"
-}
-```
-<h2> ★ Technologies and Skills </h2>
-
-<p align = "center">
-  <img src = "https://img.shields.io/badge/-java-000000?style=flat&logo=java&logoColor=white" >
-  <img src = "https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white" >
-  <img src = "https://img.shields.io/badge/-git-000000?style=flat&logo=git&logoColor=white">
-</p>
-
-<h2>Git Statistics</h2>
-
-<div align = "center">
-  <a href="https://git.io/streak-stats" >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devpablomejia&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
-</a>
-</div>
-
-```
-Loading next level...
-[██████████░░░░░░] 60% EXP
-```
-
-## ★ Contact with me
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<div align="center">
-    <img src="https://i.pinimg.com/564x/86/37/88/86378860b6cb6bf30797e4fdab4aa913.jpg" alt="Banner">
-</div>
-
-
+--->
 
 <!---
 devpablomejia/devpablomejia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

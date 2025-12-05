@@ -17,18 +17,6 @@ Passionate Systems Engineering student diving deep into artificial intelligence 
   <img src="https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpablomejia&theme=radical&show_icons=true" alt="GitHub Stats"/>
-</p>
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpablomejia&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
 ## 📫 Connect With Me
 
 <p align="center">

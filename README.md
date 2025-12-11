@@ -48,12 +48,6 @@
     height="170"
     alt="Top Languages"
   />
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=devpablomejia&background=00000000&ring=cb9cff&fire=cb9cff&currStreakLabel=a7b8ff&sideNums=a7b8ff&currStreakNum=cb9cff&sideLabels=a7b8ff&dates=d0d0d0"
-    height="170"
-    alt="GitHub Streak"
-  />
 
 </div>
 

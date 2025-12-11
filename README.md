@@ -8,7 +8,7 @@
   </a>
   <br>
   <p>
-    <a href="www.linkedin.com/in/devpablomejia"><img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/devpablomejia"><img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
     <a href="mailto:pablomiguel1108@outlook.com"><img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
   </p>
 

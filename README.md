@@ -12,13 +12,6 @@
     <a href="mailto:pablomiguel1108@outlook.com"><img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a>
   </p>
 
-<h1><Strong>About Me</Strong></h1>
-
-<h3>Hi! I'm Pablo M. Mejía, Systems Engineering student (5nd semester), passionate about programming and constantly learning</h3>
-</div> 
-
-<h2 align="center"><em>Technologies</em></h2>
-
 <h3 align="center">Main Stack</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="55"/>
@@ -38,13 +31,13 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.zcy.dev/api?username=devpablomejia&show_icons=true&bg_color=00000000&title_color=cb9cff&text_color=a7b8ff&icon_color=cb9cff" 
+    src="https://github-readme-stats.vercel.app/api?username=devpablomejia&theme=midnight-purple&show_icons=true&count_private=true" 
     height="170"
     alt="GitHub Stats"
   />
 
   <img 
-    src="https://git-stats-hazel.vercel.app/api/top-langs/?username=devpablomejia&layout=compact&bg_color=00000000&title_color=cb9cff&text_color=a7b8ff"
+    src="https://git-stats-hazel.vercel.app/api/top-langs/?username=devpablomejia&layout=compact&theme=midnight-purple"
     height="170"
     alt="Top Languages"
   />

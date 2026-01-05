@@ -23,31 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55"/>
 </p>
-
-<br>
-<br>
-<br>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=devpablomejia&theme=midnight-purple&show_icons=true&count_private=true" 
-    height="170"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://git-stats-hazel.vercel.app/api/top-langs/?username=devpablomejia&layout=compact&theme=midnight-purple"
-    height="170"
-    alt="Top Languages"
-  />
-
-</div>
-
-<br>
-<br>
-<br>
-
-
-
-<p align="center">Made by <a href="https://github.com/devpablomejia">Pablo Mejia</a></p>
